@@ -1,0 +1,26 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldeno/RecipeAppForkify.git"
+  },
+  "author": "Angelo Chagas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldeno/RecipeAppForkify/issues"
+  },
+  "homepage": "https://github.com/eldeno/RecipeAppForkify#readme",
+  "devDependencies": {
+    "webpack": "^4.10.2",
+    "webpack-cli": "^2.1.4"
+  },
+  "dependencies": {}
+}
