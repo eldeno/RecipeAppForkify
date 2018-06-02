@@ -1,3 +1,3 @@
 console.log('Imported mobile');
 
-export default 23;
+export default 1240;
